@@ -1,5 +1,5 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
+name:          Hrvatska verzija priručnika za pisanje HTML-a i CSS-a od @mdo
+description:   Standardi za razvoj fleksibilnog, pouzdanog i održivog koda u HTML-u i CSS-u.
 url:           http://codeguide.co
 
 markdown:      rdiscount
